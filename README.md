@@ -1,6 +1,6 @@
 ## Demo
 
-<img src="https://github.com/TWK21/react-navbar/blob/main/public/demo.gif"/>
+<img src="https://github.com/terrytwk/react-navbar/blob/main/public/demo.gif"/>
 
 ## Run it locally
 
