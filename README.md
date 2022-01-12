@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+## Demo
+
+<img src="https://github.com/TWK21/react-navbar/blob/main/public/demo.gif"/>
+
+## Run it locally
+
+Clone this repo, run `npm install`, and `npm start`
+
+```bash
+git clone https://github.com/TWK21/react-dropdown-navbar.git
+
+cd react-dropdown-navbar
+npm install
+
+npm start
+```
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +84,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
