@@ -43,9 +43,11 @@ const Footer = () => {
       </div>
 
       <div className="footer-legal">
-        <text>© 2021 React Navbar Inc.</text> <text>|</text>
-        <a href="/">Privacy Policy</a>
-        <a href="/">Terms of Use</a>
+        <text>© 2021 React Navbar Inc.</text> <text className="bar"> |</text>
+        <div className="documents">
+          <a href="/">Privacy Policy</a>
+          <a href="/">Terms of Use</a>
+        </div>
       </div>
     </div>
   );
