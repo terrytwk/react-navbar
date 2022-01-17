@@ -1,13 +1,13 @@
 ## Demo
 
-<img src="https://github.com/TWK21/react-navbar/blob/main/public/demo.gif"/>
+<img src="https://github.com/terrytwk/react-navbar/blob/main/public/demo.gif"/>
 
 ## Run it locally
 
 Clone this repo, run `npm install`, and `npm start`
 
 ```bash
-git clone https://github.com/TWK21/react-dropdown-navbar.git
+git clone https://github.com/terrytwk/react-navbar.git
 
 cd react-dropdown-navbar
 npm install
